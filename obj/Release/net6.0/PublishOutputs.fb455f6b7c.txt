@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\hello-world-gcp.exe
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\hello-world-gcp.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\hello-world-gcp.deps.json
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\hello-world-gcp.runtimeconfig.json
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\hello-world-gcp.pdb
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\CloudNative.CloudEvents.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\CloudNative.CloudEvents.AspNetCore.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\Google.Cloud.Functions.Framework.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\Microsoft.Extensions.Logging.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\Microsoft.Extensions.Options.dll
+C:\Users\Matheus\source\repos\hello-world-gcp\hello-world-gcp\cloud-functions\Microsoft.Extensions.Primitives.dll
