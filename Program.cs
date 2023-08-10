@@ -16,7 +16,7 @@ namespace HelloHttp;
 public class Function  {
     static async Task Main(string[] args) {
         Console.WriteLine("wow");
-        CreateHostBuilder(args).Build().Run();
+        CreateHostBuilder(args).Build().RunAsync();
 
     }
 
